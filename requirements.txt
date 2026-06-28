@@ -1,0 +1,2 @@
+vs code 2026(.net 10)
+ssms(sql server management studio)
